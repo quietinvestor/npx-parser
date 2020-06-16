@@ -1,0 +1,4 @@
+# --- Python ---
+# Byte-compiled / optimised
+__pycache__/
+*.py[cod]
